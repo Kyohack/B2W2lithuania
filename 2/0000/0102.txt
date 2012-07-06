@@ -1,2 +1,2 @@
-つうしんエラーが　はっせいしました
-つうしんエラーが　はっせいしました\xfffeでんげんを　きってください
+Communication error.
+Communication error.\xfffePlease turn off the power.

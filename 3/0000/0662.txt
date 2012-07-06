@@ -186,9 +186,9 @@
 ＣＭ『ただの　とおりすがり？　いいえ\xfffeまた　あえる　ジョインアベニュー\xf000븁\x0000\xfffeあなたごのみで　ちがう　みち\xfffeしげきあふれる　ジョインアベニュー
 ＣＭ『ポケモンワールドトーナメント！\xfffeかて！　かちぬけ！　ただそれだけだ！
 ＣＭ『ポケモンワールドトーナメント！\xfffeかて！　かちぬけ！　ただそれだけだ！\xf000븁\x0000\xfffeすべての　トーナメントを\xfffeせいは　してみろ！　できるだろ！？
-どの　チャンネルに　しますか？
-タレント
-しょうぶ
-バラエティ
-やめる
-つづけて　みますか？
+Which channels do you want?
+Talent
+Battle
+Variety
+Back
+Are you sure you want to cancel?

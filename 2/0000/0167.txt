@@ -1,32 +1,32 @@
-Ｃ－ＧＥＡＲ
-デルパワー
-エレガント
-キュート
-クール
-グループ
-ゲット
-コレクション
-コンプリート
-システム
-シューター
-せいかく
-ダウジング
-タウンマップ
-デザイン
-デジタル
-でんどういり
-トライアル
-バッジ
-バトルけんてい
-バトルボックス
-デルダマ
-ポケセン
-ポケモン
-ミッション
-メール
-メッセージ
-ハイルツリー
-ユニーク
-レベル
-レンタル
-わざマシン
+C-GEAR
+PASS POWER
+ELEGANT
+CUTE
+COOL
+GROUP
+GOTCHA
+COLLECTION
+COMPLETE
+SYSTEM
+LAUNCHER
+NATURE
+DOWSING
+TOWN MAP
+DESIGN
+DIGITAL
+HALL OF FAME
+INSTITUTE
+BADGE
+BATTLE TEST
+BATTLE BOX
+PASS ORB
+POKÉCENTER
+POKÉMON
+MISSION
+MAIL
+MESSAGE
+ENTREE
+UNIQUE
+LEVEL
+RENTAL
+TM

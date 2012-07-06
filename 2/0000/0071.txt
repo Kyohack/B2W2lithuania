@@ -1,6 +1,6 @@
-けってい
-やめる
-なにか　ことばを　いれてください
-メールを　もたせるのを\xfffeやめますか？
-はい
-いいえ
+Confirm
+Cancel
+Please enter a phrase or word.
+Stop giving the Pokémon Mail?
+Yes
+No

@@ -1,29 +1,29 @@
-あなたの　なまえは？
-\xf000ā\x0001\x0000の　なまえは？
-ボックスの　なまえは？
-ライバルの　なまえは？
-ともだちの　なまえは？
-すれちがった　あいてへの　あいさつは？
-すれちがった　あいてへの　おれいは？
-すれちがった　あいてへ\xfffeつたえたい　メッセージは？
-この　まちの　なまえは？\xfffe（トレーナーカードに　のります）
-あなたの　かたがきは？\xfffe（このまち　だけの　よばれかた　です）
-じぶんの　くちぐせは？\xfffe（せかいの　みんなに　つたわります）
-パスワードを　にゅうりょくせよ
-ゲームシンクＩＤコードを\xfffeにゅうりょく　してください
-かんどう　したときの　ことばは？\xfffe（せかいの　みんなに　つたわります）
-さんかしている　トレーナーへ\xfffeつたえたい　メッセージは？
-すれちがった　あいてへの\xfffeよろこびの　メッセージは？
-ポケモンの　なまえは？
-なまえを　いれてください！
-にゅうりょく　できる　すうじは\xfffe４もじ　まで　です
-ゲームシンクＩＤコードが\xfffeまちがっています
+Your name?
+\xf000ā\x0001\x0000's nickname?
+Box name?
+Your rival's name?
+Your friend's name?
+How do you greet passersby?
+How do you thank passersby?
+What's your message\xfffeto passersby?
+This town's name?\xfffe(Record it on your Trainer Card.)
+Your title?\xfffe(This city is the only reffered location.)
+My saying?\xfffe(Transmitted to everyone in the world.)
+Enter your password.
+Please input your\xfffeGame Sync ID Code.
+How and when to talk?\xfffe(Transmitted to everyone in the world.)
+How do you convey a message \xfffeto passersby?
+What is your Passerby Message?
+Pokémon's name?
+Please enter the name.
+Numbers may contain\xfffeonly up to four digits.
+The Game Sync ID Code\xfffeis incorrect.
 　
 　
-よろしく！
-ありがとう！
-ホワイト．
-ブラック．
-♂
-♀
-にゅうりょくしてください
+Welcome!
+Thank you!
+Shiro*
+Kuro*
+⑭
+⑮
+Please input.
