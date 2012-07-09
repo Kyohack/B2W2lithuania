@@ -1,12 +1,12 @@
 No Answer
-Black2
-White2
-Male
-Female
-Battle
-Trade
-The City
-The Countryside
+Juoda2
+Balta2
+Vyras
+Moteris
+Mūšis
+Mainyti
+Miestas
+Kaimelis
 Smart
 Athletic
 Time
@@ -16,9 +16,9 @@ Substance
 Cool
 Cute
 Strange
-Tepig
-Oshawott
-Snivy
+Tepigas
+Ošavotas
+Šnaivė
 Competition
 Cooperation
 -
