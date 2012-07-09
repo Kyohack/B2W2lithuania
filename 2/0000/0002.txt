@@ -4,7 +4,7 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Choose a Pokémon.
+Pasirinkite Pokemoną.
 Use on which Pokémon?
 Replace which one?
 Battle using which Pokémon?
@@ -22,33 +22,33 @@ PP
 SHIFT
 ♂
 ♀
-SUMMARY
-CHECK MOVES
+SANTRAUKA
+PATIKRINKITE JUDA
 CANNOT BATTLE
-IN BATTLE
-STAND BY
-PARTNER'S
+MŪŠYJE
+STOVĖTI
+PARTNERIO
 No item held
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Lv.
+Lvl.
 \xf000Ȃ\x0001\x0000
-NEXT LV
+KITAS LVL
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
 HP
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
-ATTACK
+ATAKA
 \xf000Ȃ\x0001\x0000
-DEFENSE
+GYNYBA
 \xf000Ȃ\x0001\x0000
 SP. ATK
 \xf000Ȃ\x0001\x0000
 SP. DEF
 \xf000Ȃ\x0001\x0000
-SPEED
+GREITIS
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 PP
@@ -56,19 +56,19 @@ PP
 \xf000ȁ\x0001\x0000
 ／
 ――
-POWER
+GALIA
 \xf000Ȃ\x0001\x0000
 ―
-ACCURACY
+TAIKLUMAS
 \xf000Ȃ\x0001\x0000
-CATEGORY
-PHYSICAL
-STATUS
-SPECIAL
+KATEGORIJA
+FIZINĖ
+BŪKLINĖ
+SPECIALI
 APPEAL POINT(s)
-FORGET
-CANCEL
-HM moves can't be\xfffeforgotten now.
+PAMIRŠTI
+ATŠAUKTI
+HM judos negalima\xfffepamiršti dabar.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
@@ -84,25 +84,25 @@ HM moves can't be\xfffeforgotten now.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000 is\xfffealready in battle!
-\xf000Ă\x0001\x0000 has no energy\xfffeleft to battle!
-\xf000Ă\x0001\x0000 can't be switched\xfffeout!
-An Egg can't battle!
+\xf000Ă\x0001\x0000 \xfffejau mūšyje!
+\xf000Ă\x0001\x0000 nebeturi jėgų\xfffetęsti mūšio!
+\xf000Ă\x0001\x0000 negali būti\xfffeiškviestas!
+Kiaušinis negali kovoti!
 You cannot decide for\xfffeyour partner!
-It won't have any effect.
-\xf000Ă\x0001\x0000's HP was restored\xfffeby \xf000Ȃ\x0001\x0001 point(s).
-\xf000Ă\x0001\x0000 was cured of its\xfffepoisoning.
-\xf000Ă\x0001\x0000 was cured of\xfffeparalysis.
-\xf000Ă\x0001\x0000's burn was healed.
-\xf000Ă\x0001\x0000 was thawed out.
-PP was restored.　
-\xf000Ă\x0001\x0000 recovered from\xfffefainting!
-\xf000Ă\x0001\x0000 became healthy.
-\xf000Ă\x0001\x0000 snapped out of its\xfffeconfusion.
+Tai neturės jokio poveikio.
+\xf000Ă\x0001\x0000's HP buvo atkurta\xfffeby \xf000Ȃ\x0001\x0001 taškų.
+\xf000Ă\x0001\x0000 buvo išgydytas iš\xfffeapsinuodijimo.
+\xf000Ă\x0001\x0000 buvo išgydytas iš\xfffeparalyžiaus.
+\xf000Ă\x0001\x0000's nudegimas buvo išgydytas.
+\xf000Ă\x0001\x0000 buvo atšildytas.
+PP buvo atkurta.
+\xf000Ă\x0001\x0000 atsigavo nuo\xfffeapalpimo!
+\xf000Ă\x0001\x0000 tapo sveikesniu.
+\xf000Ă\x0001\x0000 Atsipeikėjo!\xfffe
 \xf000Ă\x0001\x0000 \xfffegot over its infatuation.
-\xf000Ă\x0001\x0000 woke up.
-\xf000Ă\x0001\x0000 has already been\xfffeselected.
+\xf000Ă\x0001\x0000 Prabudo!
+\xf000Ă\x0001\x0000 jau\xfffepasirinktas.
 Restore which move?
 \xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
-\xf000Ă\x0001\x0000 can't be switched\xfffeout!
-\xf000Ă\x0001\x0000 is already switched\xfffeout.
+\xf000Ă\x0001\x0000 negali būti\xfffeiškviestas!
+\xf000Ă\x0001\x0000 jau yra\xfffeiškviestas!
