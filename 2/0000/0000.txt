@@ -7,140 +7,140 @@ Mūšis
 Mainyti
 Miestas
 Kaimelis
-Smart
-Athletic
-Time
-Money
-Appearance
+Sumanus
+Sportiškas
+Laikas
+Pinigai
+Išvaizda
 Substance
-Cool
-Cute
-Strange
+Kietas
+Mielas
+Keistas
 Tepigas
 Ošavotas
 Šnaivė
-Competition
-Cooperation
+Konkurencija
+Bendradarbiavimas
 -
-Go to the past
-Go to the future
-Don't need
-Family
-Friends
-Self
-Cool People
-Smart Person
-Funny Man
-Strange Person
-Chasing a dream
-Reality Check
+Eiti į praeitį
+Eiti į ateitį
+Nereikia
+Šeima
+Draugai
+Savęs
+Kietas Žmogus
+Protingas Žmogus
+Linksmas Žmogutis
+Keistas Asmuo
+Gaudyti Svajones
+Realybės Mėgėjas
 -
 -
-Interesting
-Cool
-Kind
-Rich
-Battles
-Collecting
-The Story
-Pokémon
-Flying
-Become transparent
-Stop Time
-Read Minds
-Use
-Save
-Be Proud
-Donate
-0 - 5 years
-5 - 10 years
-10 - 15 years
-15 - years
-Play Outside
-Shopping
-Reading
-Video Games
-Sleeping Late
+Įdomus
+Kietas
+Malonus
+Turtingas
+Mūšiai
+Kolekcionavimas
+Istorija
+Pokemonai
+Skraidymas
+Tapti Skaidriu
+Sustabdyti Laiką
+Skaityti Mintis
+Naudoti
+Saugoti
+Didžiuotis
+Aukoti
+0 - 5 metai
+5 - 10 metai
+10 - 15 metai
+15 - metai
+Žaisti Lauke
+Apsipirkinėti
+Skaityti
+Kompiuteriniai Žaidimai
+Mirgoti Ilgiau
 Pop
-Rock
-Jazz
-Rap
-Classical
-News
+Rokas
+Džiazas
+Repas
+Klasika
+Naujienos
 Drama
-Comedy
-Sports
-Cartoons
-Action
+Comedija
+Sportai
+Kartūnai
+Veiksmas
 Sci-Fi
-Romance
+Romantika
 Suspense
-Comedy
-Horror
-Action
-Puzzle
+Komedija
+Siaubas
+Veiksmai
+Puzlė
 RPG
-Adventure
+Kelionės
 Simulation
-Sport
-Work
-Interpersonal
-Hobby
-Health
+Sportas
+Darbas
+Tarpasmeninė
+Hobis
+Sveikata
 Become Mighty
 -
-Exercising
-Reading
-Music
-Movies
-Traveling
-Cooking
-Fishing
-Video Games
-Student
-Office Worker
-Creator
+Mankšta
+Skaityti
+Muzika
+Filmai/Kinai
+Kelionės
+Virimas
+Žvejyba
+Kompiuteriniai Žaidimai
+Studentas
+Tarnautojas
+Kūrėjas
 Self-Employed
 Public Official
-Homemaker
-Artist
+Namų šeimininkas (-ė)
+Artistas
 Job-Hopper
-Cheren
-Roxie
+Čerenas
+Roksė
 Burgh
 Elesa
 Clay
-Skyla
+Skaila
 Drayden
-Marlon
+Marlonas
 -
 -
 -
-Normal
-Fire
-Water
-Electric
-Grass
-Ice
-Fighting
-Poison
-Ground
-Flying
-Psychic
-Bug
-Rock
-Ghost
-Dragon
-Dark
-Steel
-0-10 Hours
-10-20 Hours
-20-30 Hours
-30-40 Hours
-40-50 Hours
-50-60 Hours
-60-70 Hours
-70-80 Hours
-80-90 Hours
-90-100 Hours
-100+ Hours
+Normalus
+Ugnis
+Vanduo
+Elektra
+Žolė
+Ledas
+Kovotojas
+Nuodai
+Žemė
+Skraidantis
+Psikinis
+Vabzdys
+Akmuo
+Vaiduoklis
+Slibinas
+Tamsa
+Plienas
+0-10 Valandų
+10-20 Valandų
+20-30 Valandų
+30-40 Valandų
+40-50 Valandų
+50-60 Valandų
+60-70 Valandų
+70-80 Valandų
+80-90 Valandų
+90-100 Valandų
+100+ Valandų
