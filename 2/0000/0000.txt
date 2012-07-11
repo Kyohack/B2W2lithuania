@@ -1,4 +1,4 @@
-No Answer
+Nėra Atsakymo
 Juoda2
 Balta2
 Vyras
@@ -87,7 +87,7 @@ Darbas
 Tarpasmeninė
 Hobis
 Sveikata
-Become Mighty
+Tapti Galingu
 -
 Mankšta
 Skaityti
@@ -107,11 +107,11 @@ Artistas
 Job-Hopper
 Čerenas
 Roksė
-Burgh
+Burghas
 Elesa
-Clay
+Klėjus
 Skaila
-Drayden
+Draidenas
 Marlonas
 -
 -
