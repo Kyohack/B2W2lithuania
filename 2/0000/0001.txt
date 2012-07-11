@@ -34,20 +34,20 @@ NAUDOTI
 ×\xf000Ȃ\x0001\x0000
 Tai neturės jokio poveikio.
 Tai buvo susukta į baltą rūką!\xfffe
-\xf000Ă\x0001\x0000 \xfffeis getting Pumped!
+\xf000Ă\x0001\x0000 \xfffeis tuoj Įsiaudrins!
 \xf000Ă\x0001\x0000's Ataka\xffferose!
 \xf000Ă\x0001\x0000's Speciali Ataka\xffferose!
 \xf000Ă\x0001\x0000's Greitis\xffferose!
 \xf000Ă\x0001\x0000's Speciali Gynyba\xffferose!
 \xf000Ă\x0001\x0000's Gynyba\xffferose!
 \xf000Ă\x0001\x0000's taiklumas\xffferose!
-\xf000ĉ\x0001\x0000 \xfffewas naudotas!
+\xf000ĉ\x0001\x0000 \xfffebuvo naudotas!
 Tai nėra gerai! Neįmanoma siekti\xfffekai yra du Pokemonai!
 Nebėra vietos kompiuteryje!
-\xf000ć\x0001\x0001's effect prevents\xfffethe item's use on \xf000Ă\x0001\x0000!
-Tai nėra gerai! Neįmanoma siekti\xfffeat a Pokémon that's not in sight!
-Tai nėra gerai! Neįmanoma siekti\xfffeat a Pokémon that's not in sight!
+\xf000ć\x0001\x0001's poveikis priklauso\xfffenuo panaudoto daikto \xf000Ă\x0001\x0000!
+Tai nėra gerai! Neįmanoma siekti\xfffePokemono nesančio regėjimo lauke!
+Tai nėra gerai! Neįmanoma siekti\xfffePokemono nesančio regėjimo lauke!
 Tai nėra įkrauta pakankamai.
-Profesorės Kadagės žodžiai aidėjo...\xfffeYra laikas ir vieta viskam! Bet ne dabar.\xf000븀\x0000\xfffe
-Neįmanoma siekti\xfffewithout being focused!
+Kadagės žodžiai aidėjo...\xfffeYra laikas ir\xf000븀\x0000\xfffevieta viskam! Bet ne dabar.
+Neįmanoma siekti\xfffebe susikaupimo!
 Rutulys negali būti naudojamas \xfffenes prietaisas Ghetsis naudojamas!
