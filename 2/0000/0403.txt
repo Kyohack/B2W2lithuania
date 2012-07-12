@@ -1,95 +1,95 @@
 -----
 Pound
-Karate Chop
-DoubleSlap
-Comet Punch
-Mega Punch
-Pay Day
-Fire Punch
-Ice Punch
-ThunderPunch
-Scratch
+Karatė Smūgis
+Dvigubas Pliaukštelėjimas
+Kometos Smūgis
+Mega Smūgis
+Algų Dieną
+Ugnies Smūgis
+Ledo Smūgis
+Žaibo Smūgis
+Įbrėžimas
 ViceGrip
 Guillotine
 Razor Wind
 Swords Dance
 Cut
-Gust
-Wing Attack
+Gūsis
+Sparno Ataka
 Whirlwind
-Fly
+Skristi
 Bind
-Slam
-Vine Whip
+Trankymas
+Ūso Ataka
 Stomp
-Double Kick
-Mega Kick
-Jump Kick
-Rolling Kick
-Sand-Attack
+Dvigubas Spyris
+Mega Spyris
+Šuolio Spyris
+Riedantis Spyris
+Smėlio Ataka
 Headbutt
-Horn Attack
+Rago Ataka
 Fury Attack
-Horn Drill
-Tackle
-Body Slam
+Gręžentis Ragas
+Smarkioji
+Kūno Trenkimas
 Wrap
 Take Down
-Thrash
+Sumušimas
 Double-Edge
 Tail Whip
-Poison Sting
+Nuodingas Gėluonis
 Twineedle
 Pin Missile
 Leer
-Bite
+Įkandimas
 Growl
-Roar
-Sing
+Riaumojimas
+Dainavimas
 Supersonic
 SonicBoom
 Disable
 Acid
-Ember
-Flamethrower
-Mist
-Water Gun
-Hydro Pump
-Surf
-Ice Beam
-Blizzard
-Psybeam
-BubbleBeam
-Aurora Beam
-Hyper Beam
-Peck
-Drill Peck
+Žarijos
+Ugniasvaidis
+Migla
+Vandens Šautuvas
+Hydro Pumpa
+Banga
+Ledo Spindulys
+Pūga
+Psy Spindulys
+Burbulų Spindulys
+Auroros Spindulys
+Hyper Spindulys
+Kirsti Snapu
+Gręžentis Snapas
 Submission
-Low Kick
+Žemas Spyris
 Counter
 Seismic Toss
-Strength
+Jėga
 Absorb
 Mega Drain
 Leech Seed
 Growth
-Razor Leaf
-SolarBeam
-PoisonPowder
-Stun Spore
-Sleep Powder
+Skustuvų Ataka
+Saulės Spindulys
+Nuodingi Milteliai
+Paralyžiuojančios Sporos
+Miego Dulkės
 Petal Dance
 String Shot
-Dragon Rage
-Fire Spin
-ThunderShock
-Thunderbolt
-Thunder Wave
-Thunder
-Rock Throw
-Earthquake
+Drakono Įniršis
+Ugnies Suktukas
+Žaibo Šokas
+Žaibo Strėlė
+Žaibo Banga
+Griaustinis
+Akmens Metimas
+Žemės Drebėjimas
 Fissure
-Dig
+Kasti
 Toxic
 Confusion
 Psychic
@@ -97,20 +97,20 @@ Hypnosis
 Meditate
 Agility
 Quick Attack
-Rage
-Teleport
-Night Shade
+Įniršis
+Teleportas
+Nakties Šešėlis
 Mimic
 Screech
 Double Team
 Recover
-Harden
-Minimize
+Sukietėjimas
+Sumažėjimas
 SmokeScreen
 Confuse Ray
 Withdraw
 Defense Curl
-Barrier
+Barjeras
 Light Screen
 Haze
 Reflect
@@ -118,59 +118,59 @@ Focus Energy
 Bide
 Metronome
 Mirror Move
-Selfdestruct
-Egg Bomb
-Lick
-Smog
-Sludge
+Susinaikinimas
+Kiaušinio Bomba
+Laižymas
+Smogas
+Purvas
 Bone Club
 Fire Blast
-Waterfall
+Krioklys
 Clamp
 Swift
-Skull Bash
-Spike Cannon
+Kaukolės Trenksmas
+Spiglių Patranka
 Constrict
-Amnesia
+Amnezija
 Kinesis
 Softboiled
-Hi Jump Kick
+Aukšto Šuolio Spyris
 Glare
 Dream Eater
 Poison Gas
 Barrage
 Leech Life
 Lovely Kiss
-Sky Attack
-Transform
-Bubble
+Dangaus Ataka
+Transformacija
+Burbulai
 Dizzy Punch
-Spore
+Sporos
 Flash
-Psywave
+Psy Banga
 Splash
 Acid Armor
 Crabhammer
-Explosion
+Susisprogdinimas
 Fury Swipes
-Bonemerang
+Kaulo Bumerangas
 Rest
-Rock Slide
-Hyper Fang
+Akmenų Nuošliauža
+Hyper Iltis
 Sharpen
 Conversion
 Tri Attack
-Super Fang
+Super Iltis
 Slash
 Substitute
 Struggle
 Sketch
-Triple Kick
-Thief
-Spider Web
-Mind Reader
-Nightmare
-Flame Wheel
+Trigubas Spyris
+Vagis
+Voratinklis
+Minčių Skaitymas
+Košmarai
+Ugnies Ratas
 Snore
 Curse
 Flail
