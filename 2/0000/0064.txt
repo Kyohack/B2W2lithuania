@@ -1,50 +1,50 @@
-None
-Master Ball
+Niekas
+Meistro Rutulys
 Ultra Ball
-Great Ball
-Poké Ball
-Safari Ball
-Net Ball
-Dive Ball
-Nest Ball
-Repeat Ball
-Timer Ball
+Puikus Rutulys
+Poke Rutulys
+Safario Rutulys
+Tinklo Rutulys
+Naro Rutulys
+Lizdo Rutulys
+Atkartojimo Rutulys
+Laikmečio Rutulys
 Luxury Ball
-Premier Ball
+Papildomas Rutulys
 Dusk Ball
-Heal Ball
-Quick Ball
+Gydantis Rutulys
+Greitasis Rutulys
 Cherish Ball
-Potion
-Antidote
-Burn Heal
-Ice Heal
-Awakening
-Parlyz Heal
+Vaistų dozė
+Priešnuodis
+Atvėsintojas
+Atšildytojas
+Žadintojas
+Vaistai nuo Paralyžio
 Full Restore
-Max Potion
-Hyper Potion
-Super Potion
+Maksimalūs Vaistai
+Hyper Vaistai
+Super Vaistai
 Full Heal
-Revive
-Max Revive
-Fresh Water
-Soda Pop
-Lemonade
-Moomoo Milk
+Prikelėjas
+Maksimalus Prikelėjas
+Šviežias Vanduo
+Gazuotas Vanduo
+Limonadas
+Karvės Pienas
 EnergyPowder
 Energy Root
 Heal Powder
 Revival Herb
 Ether
 Max Ether
-Elixir
-Max Elixir
-Lava Cookie
-Berry Juice
+Eliksyras
+Maksimalus Eliksyras
+Lavos Sausainis
+Vaisinės Sultys
 Sacred Ash
 HP Up
-Protein
+Proteinas
 Iron
 Carbos
 Calcium
