@@ -5,9 +5,9 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 Pasirinkite Pokemoną.
-Use on which Pokémon?
-Replace which one?
-Battle using which Pokémon?
+Ant kurio Pokemono naudoti?
+Pakeisti kurį?
+Kurį Pokemoną naudoti kovojant?
 Switch out which Pokémon?
 L\xf000Ȃ\x0001\x0000
 /
@@ -28,12 +28,12 @@ CANNOT BATTLE
 MŪŠYJE
 STOVĖTI
 PARTNERIO
-No item held
+Nelaikomas joks daiktas
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Lvl.
+Lgl.
 \xf000Ȃ\x0001\x0000
-KITAS LVL
+KITAS LYG
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
 HP
@@ -44,9 +44,9 @@ ATAKA
 \xf000Ȃ\x0001\x0000
 GYNYBA
 \xf000Ȃ\x0001\x0000
-SP. ATK
+ĮP. ATK
 \xf000Ȃ\x0001\x0000
-SP. DEF
+ĮP. GIN
 \xf000Ȃ\x0001\x0000
 GREITIS
 \xf000Ȃ\x0001\x0000
@@ -102,7 +102,7 @@ PP buvo atkurta.
 \xf000Ă\x0001\x0000 \xfffegot over its infatuation.
 \xf000Ă\x0001\x0000 Prabudo!
 \xf000Ă\x0001\x0000 jau\xfffepasirinktas.
-Restore which move?
+Kurį judesį atgaivinti?
 \xf000ć\x0001\x0001's poveikis priklauso\xfffenuo panaudoto daikto \xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000 negali būti\xfffeiškviestas!
 \xf000Ă\x0001\x0000 jau yra\xfffeiškviestas!
