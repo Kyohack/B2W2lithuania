@@ -1,27 +1,27 @@
-Would you like to save the last battle\xfffeas your Battle Video?
-Yes
-No
-The last battle will not be saved.\xfffeOK?
-Yes
-No
-Is it OK to overwrite your existing\xfffeBattle Video?
-Yes
-No
-Saving your Battle Video...\xfffeDon't turn off the power.
-The Battle Video has been saved.
-There was an error.\xfffeThe Battle Video couldn't be saved.
-Awaiting your friend's decision...\xfffePlease wait.
-You cannot record videos\xfffewith this Trainer... Please wait.
-+You cannot record videos\xfffewith this Trainer.
-The last battle cannot be recorded.
-Time Limit:
+Ar norėtumėte išsaugoti paskutinę kovą\xfffekaip jūsų kovos vaizdo įr.?
+Taip
+Ne
+Paskutinė kova nebus išsaugota.\xfffeGerai?
+Taip
+Ne
+Ar jūs tikrai norite perrašyti jau egzistuojantį\xfffeKovos vaizdo įr.?
+Taip
+Ne
+Išsaugomas jūsų Kovos vaizdo įr. ...\xfffeNeišjunkite sistemos.
+Kovos vaizdo įrašas buvo išsaugotas.
+Įvyko klaida.\xfffeKovos vaizdo įr. negalėjo būti išsaugotas.
+Laukiama draugo sprendimo...\xfffePalaukite.
+Jūs negalite įrašinėti vaizdo įr.\xfffesu šio treneriu... Palaukite.
++Jūs negalite įrašinėti vaizdo įr.\xfffesu šio treneriu.
+Paskutinė kova negalėjo būti įrašyta.
+Laiko limitas:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-PREVIOUS RECORD
-Colosseum Single,\xfffeNo Restrictions
-Colosseum Single,\xfffeFlat
-Colosseum Single,\xfffeNo Restrictions, Launcher On
-Colosseum Single,\xfffeFlat, Launcher On
+ANKSTESNIS ĮRAŠAS
+Koliziejus Vienguba,\xfffeJokių suvaržymų
+Koliziejus Vienguba,\xfffeFlat
+Koliziejus Vienguba,\xfffeNo Restrictions, Launcher On
+Koliziejus Vienguba,\xfffeFlat, Launcher On
 Colosseum Double,\xfffeNo Restrictions
 Colosseum Double,\xfffeFlat
 Colosseum Double,\xfffeNo Restrictions, Launcher On
