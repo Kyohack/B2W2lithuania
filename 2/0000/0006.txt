@@ -1,22 +1,22 @@
-USE
-TRASH
-REGISTER
-GIVE
-VIEW
-CONFIRM
-WALK
-BACK
-CANCEL
-SHOW
-DUMMY
-CANCEL
-BAG
-MAIL
-TAKE
-GIVE
-CHECK
-NOTHING
-DESELECT
+NAUDOTI
+IŠMESTI
+REGISTRUOI
+DUOTI
+ŽIŪRĖTI
+PATVIRTINTI
+EITI
+ATGAL
+ATŠAUKTI
+RODYTI
+MAKETAS
+ATŠAUKTI
+MAIŠAS
+PAŠTAS
+IMTI
+DUOTI
+TIKRINTI
+NIEKO
+NESIRINKTI
 ???
 ????
 ／
@@ -26,31 +26,31 @@ DESELECT
 ―――
 ♂
 ♀
-Lv.
-No.
+Lyg.
+Nr.
 ＋
 →
-ID No.
+ID Nr.
 　
-Cursor
-Go back!
-What now?
-Give
+Žymeklis
+Atgal!
+Kas dabar?
+Duoti
 \xf000Ȃ\x0001\x0000
 ×
-Drink
+Gerti
 \xf000ȃ\x0001\x0000まい
-Close
+Uždaryti
 \xf000ĉ\x0001\x0000 is selected.
-You cannot write\xfffemail here！
-There's no Pokémon!
-Move \xf000ĉ\x0001\x0000.
-The \xf000ĉ\x0001\x0000 can't be held.
-You can't give them\xfffe\xf000ĉ\x0001\x0000 here!
-Store how many\xfffe\xf000ĉ\x0001\x0000?
-You stored\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
-You can't store any more!
-This is an important item\xfffeso you can't throw it away！
+Tu negali rašyti\xfffemail'o čia！
+Čia nėra Pokemono!
+Perkelti \xf000ĉ\x0001\x0000.
+\xf000ĉ\x0001\x0000 negali būti laikomas.
+tu negali jiems duoti\xfffe\xf000ĉ\x0001\x0000 čia!
+Atsidėti kiek\xfffe\xf000ĉ\x0001\x0000?
+Tu atsidėjai\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Nebegali daugiau atsidėti!
+Tai labai svarbus daiktas\xfffetaigi, tu negali jo išmesti！
 Throw away how many\xfffe\xf000ĉ\x0001\x0000?
 Threw away \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000.
 Is it OK to throw away\xfffe\xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000?
