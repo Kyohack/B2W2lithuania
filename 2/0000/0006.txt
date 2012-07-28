@@ -26,13 +26,13 @@ PANAIKINTI
 ―――
 ♂
 ♀
-Lyg.
-Nr.
+Lv.
+No.
 ＋
 →
-ID Nr.
+ID No.
 　
-Žymeklis
+Cursor
 Eik atgal!
 Kas dabar?
 Duok
@@ -71,12 +71,12 @@ Milteliai: \xf000ȃ\x0001\x0000
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000Paslėpti \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Uogu milteliai
-Played the Poké Flute!\xfffeWow! Skamba šauniai!
-Played the Poké Flute!
-Pokemonai išgirdo\xfffeflute ir atsikėle.
+Groja Poke fleita!\xfffeWow! Skamba šauniai!
+Groja Poké fleita!
+Pokemonai išgirdo\xfffefleita ir atsikėle.
 Eiti
 \xf000ĉ\x0001\x0000? O ne.\xfffeAš negaliu to nupirkti.
-\xf000ĉ\x0001\x0000? \xfffeKiek tu parduosi?
+\xf000ĉ\x0001\x0000? \xfffeUž kiek tu parduosi?
 Aš galiu sumokėti $\xf000Ȇ\x0001\x0000.\xfffear užteks?
 Apverčiami \xf000ĉ\x0001\x0000\xfffeir perduodami $\xf000Ȇ\x0001\x0001.
 Pinigai
@@ -109,24 +109,24 @@ Can't use the \xf000ĉ\x0001\x0000.
 Peeked into treasure bag!
 Took out \xf000ĉ\x0001\x0000!
 Put away \xf000ĉ\x0001\x0000\xfffe in \xf000ĉ\x0001\x0001.
-You took out everything!
-There was nothing inside...
-However, you could not\xfffetake it out...
-Battery power low!\xfffePlease wait \xf000븀\x0000\xf000ȁ\x0001\x0000 steps until\xfffeit is charged!
-The grass lands\xfffewere quiet...
+Tu paemei viska!
+Ten nieko nebuvo viduje...
+Tačiau, tu negalėjai\xfffepaimti lauk...
+Baterija senka!\xfffePrašome palaukti \xf000븀\x0000\xf000ȁ\x0001\x0000 kol\xfffekraunama!
+Žolės laukai\xfffelabai tylus...
 Poffins:
 \xf000Ȃ\x0001\x0000／100
-Please pick a powder\xfffeto cook with!
-Can’t be used when you have someone\xfffewith you!
-You can’t be doing that now!
-Item Pocket\xfffeFor items that will be\xfffeuseful during your adventure.
-Medicine Pocket\xfffeFor items to regain your Pokémon’s\xfffeHP and PP.
-Poké Ball Pocket\xfffeFor all different types of Poké Balls.
-TMs and HMs Pocket\xfffeFor all different types of TMs and HMs.
-Berry Pocket\xfffeFor sorting and storing different\xfffeBerries.
-Mail Pocket\xfffeFor sorting and storing vibrant\xfffestationery.
-Battle Items Pocket\xfffeFor items that are useful during battle.
-Key Items Pocket\xfffeFor items that are indispensable for\xfffeyour adventure.
+Prašau paimti pabarstukus\xfffekepti su jais!
+Negali būti panaudoti kai turi kažką\xfffesu savimi!
+Negali dirbti to dabar!
+Daiktų kišenė\xfffeFarba daiktai kurie bus\xfffenaudojami tavo nuotykiuose.
+Medicinos kišenė\xfffedaiktams kurie išgydis tavo pokemonus\xfffeHP and PP.
+Pokérutuliu kišenė\xfffeVisiems skirtingos rūšies Pokérutuliams.
+TMs and HMs kišenė\xfffeVisiems skirtingiems TMs and HMs.
+Uogų kišenė\xffferūšiuoti ir kaupti skirtingas\xfffeuogas.
+Pašto kišenė\xffferūšiuoti ir kaupti reikalingus\xffferašymo reikmenis.
+Kovos daiktų kišenė\xfffekurie naudojami kovos metu.
+Raktų kišenėt\xfffedaiktams kurie būtini\xfffetavo kelionėje.
 Sustabdyti
 \xf000ĉ\x0001\x0000
 x\xf000Ȃ\x0001\x0000
